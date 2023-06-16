@@ -1,4 +1,4 @@
-<div class="bg-info"><h1 align="center">Hi 👋, I'm Atharv Chandole, Welcome to my github page.</h1></div>
+<h1 align="center">Hi 👋, I'm Atharv Chandole, Welcome to my github page.</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
 
