@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Atharv Chandole, Welcome to my github page.</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
+<progress id="file" max="100" value="75"> 75% </progress>
 <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
 
 -  I’m currently working on **Manasvi Tech. Soln. Pvt. Ltd**
