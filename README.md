@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/athuchandole/" target="blank"><img align="center" src="https://github.com/athuchandole/athuchandole/blob/main/Atharv%20Name%20png.png?raw=true" alt="athuchandole" height="100vh" width="100%" /></a>
+<a href="https://www.linkedin.com/in/athuchandole/" target="blank"><img align="center" src="https://github.com/athuchandole/athuchandole/blob/main/Atharv%20Name%20png.png?raw=true" alt="athuchandole" height="100vh" width="50%" /></a>
 <h1 align="center">Hi 👋, I'm Atharv Chandole, Welcome to my github page.</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
 <progress id="file" max="100" value="75"> 75% </progress>
