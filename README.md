@@ -3,7 +3,7 @@
 <progress id="file" max="100" value="75"> 75% </progress>
 <img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
 
--  I’m currently learning **React developer**
+-  **React Developer**
 
 -  All of my projects are available at (Git Hub Itself)
 
