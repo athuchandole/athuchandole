@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Atharv Chandole, Welcome to my github page.</h1>
 <h3 align="center">Jr. Full Stack Developer</h3>
 <progress id="file" max="100" value="75"> 75% </progress>
-<img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn-cjmik.nitrocdn.com/UjszoEMIGzQLBmRYICliaPmdTnvQlovN/assets/images/optimized/rev-63/8/e9e7b/wp-content/uploads/2019/10/data-science-giphy.gif">
 
--  **React Developer**
+-  **Web Developer**
 
 -  All of my projects are available at (Git Hub Itself)
 
--  Ask me about **Back-end**
+-  Don't ask me about **Any Think**
 
 -  How to reach me **athuchandole@gmail.com**
 
 -  Know about my experiences [https://drive.google.com/file/d/1CSYwPmH-_E3OU8GfKhy3nR2Wba0Kfu8n/view?usp=share_link](https://drive.google.com/file/d/1rdZ2d0SmdCkhqxEGvxfutqlDICqgTuDB/view?usp=sharing)
 
-- ⚡ Fun fact **I am Guitarist**
+- ⚡ Fun fact **I am not a AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
