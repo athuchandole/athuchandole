@@ -46,3 +46,22 @@
 ### 📅 GitHub Contribution Calendar
 ![](https://github.com/athuchandole/athuchandole/blob/main/profile-3d-contrib/profile-night-view.svg)
 <!-- Above assumes you've generated the 3D contribution graph SVG and added it to your repo -->
+
+### 🧪 GitHub Metrics Dashboard
+![Metrics](https://metrics.lecoq.io/athuchandole?template=classic&base.indepth=false&config.timezone=Asia%2FCalcutta)
+
+### 🗂️ Repository Summary Cards
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=athuchandole&repo=REPO_NAME&theme=radical)
+
+### 💬 GitHub Discussions & Issues
+<!-- Shows recent issues and discussions if applicable -->
+[![GitHub Discussions](https://img.shields.io/github/discussions/athuchandole/REPO_NAME?color=purple&label=Discussions)](https://github.com/athuchandole/REPO_NAME/discussions)
+[![GitHub Issues](https://img.shields.io/github/issues/athuchandole/REPO_NAME?color=red&label=Issues)](https://github.com/athuchandole/REPO_NAME/issues)
+
+### ⏰ Wakatime Stats (Coding Time)
+<!-- Replace with your Wakatime username -->
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
+
+### 🧑‍💻 Currently Working On
+![GitHub Projects](https://img.shields.io/badge/Currently_Working_On-Open%20Source%20Projects-blueviolet?style=for-the-badge&logo=github)
+
