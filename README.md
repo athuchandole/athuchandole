@@ -25,11 +25,6 @@
   <a href="https://twitter.com/athuchandole" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="athuchandole" height="30" width="40" /></a>
   <a href="https://www.facebook.com/athuchandole" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="athuchandole" height="30" width="40" /></a>
 </p>
-### 👥 GitHub Followers
-![GitHub followers](https://img.shields.io/github/followers/athuchandole?label=Followers&style=for-the-badge&logo=github&color=blue)
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=athuchandole&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=athuchandole&theme=radical&hide_border=false)<br/>
