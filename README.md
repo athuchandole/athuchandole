@@ -28,3 +28,21 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=athuchandole&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=athuchandole&theme=radical&hide_border=false&layout=compact)
 
+# 🔍 More:
+
+### 🧠 Most Used Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athuchandole&layout=donut&theme=radical)](https://github.com/athuchandole)
+
+### 📈 Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=athuchandole&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=athuchandole&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### ⚡ Recent GitHub Activity
+<!-- GitHub activity can be embedded using GitHub Actions or third-party tools -->
+[Check GitHub Profile](https://github.com/athuchandole)
+
+### 📅 GitHub Contribution Calendar
+![](https://github.com/athuchandole/athuchandole/blob/main/profile-3d-contrib/profile-night-view.svg)
+<!-- Above assumes you've generated the 3D contribution graph SVG and added it to your repo -->
