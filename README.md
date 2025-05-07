@@ -14,7 +14,7 @@
 -  Know about my experiences [https://drive.google.com/file/d/1CSYwPmH-_E3OU8GfKhy3nR2Wba0Kfu8n/view?usp=share_link](https://drive.google.com/file/d/1rdZ2d0SmdCkhqxEGvxfutqlDICqgTuDB/view?usp=sharing)
 
 - ⚡ Fun fact **I am not a AI**
-- 
+
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=athuchandole&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -25,6 +25,8 @@
   <a href="https://twitter.com/athuchandole" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="athuchandole" height="30" width="40" /></a>
   <a href="https://www.facebook.com/athuchandole" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png" alt="athuchandole" height="30" width="40" /></a>
 </p>
+### 👥 GitHub Followers
+![GitHub followers](https://img.shields.io/github/followers/athuchandole?label=Followers&style=for-the-badge&logo=github&color=blue)
 
 
 
