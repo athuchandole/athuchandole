@@ -18,6 +18,8 @@
 ### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=athuchandole&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![Follow](https://img.shields.io/github/followers/athuchandole?label=Follow&style=social)](https://github.com/athuchandole?tab=followers)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/athuchandole/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/800px-LinkedIn_icon_circle.svg.png" alt="athuchandole" height="30" width="40" /></a>
